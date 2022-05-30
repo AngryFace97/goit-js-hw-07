@@ -1,1 +1,1 @@
-# JavaScript Homework 1
+# JavaScript Homework 2
